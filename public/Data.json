@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover_url": "https://images.pexels.com/photos/1516983/pexels-photo-1516983.jpeg",
+    "title": "the great gatsby",
+    "author": "f. scott fitzgerald",
+    "author_img": "https://i.pravatar.cc/600?img=13",
+    "post_date": "2024-10-15",
+    "reading_time": "5",
+    "hashtags": ["#classic", "#novel", "#literature"]
+  },
+  {
+    "id": "2",
+    "cover_url": "https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg",
+    "title": "to kill a mockingbird",
+    "author": "harper lee",
+    "author_img": "https://i.pravatar.cc/600?img=17",
+    "post_date": "2024-10-18",
+    "reading_time": "6",
+    "hashtags": ["#classic", "#justice", "#comingofage"]
+  },
+  {
+    "id": "3",
+    "cover_url": "https://images.pexels.com/photos/3747260/pexels-photo-3747260.jpeg",
+    "title": "1984",
+    "author": "george orwell",
+    "author_img": "https://i.pravatar.cc/600?img=18",
+    "post_date": "2024-10-20",
+    "reading_time": "7",
+    "hashtags": ["#dystopian", "#political", "#literature"]
+  },
+  {
+    "id": "4",
+    "cover_url": "https://images.pexels.com/photos/3747497/pexels-photo-3747497.jpeg",
+    "title": "pride and prejudice",
+    "author": "jane austen",
+    "author_img": "https://i.pravatar.cc/600?img=63",
+    "post_date": "2024-10-22",
+    "reading_time": "5",
+    "hashtags": ["#romance", "#classic", "#society"]
+  },
+  {
+    "id": "5",
+    "cover_url": "https://images.pexels.com/photos/1643033/pexels-photo-1643033.jpeg",
+    "title": "the catcher in the rye",
+    "author": "j.d. salinger",
+    "author_img": "https://i.pravatar.cc/600?img=64",
+    "post_date": "2024-10-25",
+    "reading_time": "8",
+    "hashtags": ["#classic", "#teenage", "#alienation"]
+  }
+]
