@@ -1,8 +1,11 @@
-# React + Vite
+# CAFE KNOWLEDGE PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+THIS IS SIMPLE REACT PROJECT. THE WEBSITE HAS SO MANY FEATURES. 
+YOU CAN BOOKMARK ANY BOOKS FOR LATER READING.
+YOU CAN SEE HOW MUCH TIME YOU HAVE READ BOOKS.
 
-Currently, two official plugins are available:
+EVERY BOOK INCLUDES TITLE, GENERE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HOPE YOU LIKE THE PROJECT.
+
+LIVE LINK:  [Live Demo](https://cafeknowledge.surge.sh/)
